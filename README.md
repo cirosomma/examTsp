@@ -11,18 +11,18 @@ Factory Method                v
 Proxy                         v
 Adapter                       v
 Decorator                     v
-Facade                        x
-Composite                     x
+Facade                        v
+Composite                     v
 Bridge                        v
-Flyweight                     x
+Flyweight                     v
 #
 # Pattern Behavioral
 Observer                      v
 Strategy                      v
-State                         v
-Iterator                      x
+State                         x
+Iterator                      v
 Mediator                      x
-Memento                       x
-Visitor                       x
+Memento                       v
+Visitor                       v
 Command                       x
 Chain of Responsibility       x
