@@ -19,10 +19,10 @@ Flyweight                     v
 # Pattern Behavioral
 Observer                      v
 Strategy                      v
-State                         x
+State                         v
 Iterator                      v
-Mediator                      x
+Mediator                      v
 Memento                       v
 Visitor                       v
-Command                       x
-Chain of Responsibility       x
+Command                       v
+Chain of Responsibility       v

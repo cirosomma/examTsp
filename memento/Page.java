@@ -1,6 +1,6 @@
 public class Page {
   /**
-  Il design pattern Memento è usato a settare lo stato
+  Il design pattern Memento è usato per settare lo stato
   di un oggetto ad uno stato precedente. E' un design
   pattern di tipo comportamentale.
   */
